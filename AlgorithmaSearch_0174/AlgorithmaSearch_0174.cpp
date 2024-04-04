@@ -50,6 +50,12 @@ void linearSearch()  //membuat prosedur linearSearch
 		while (i < n) //step 3
 		{
 			ctr++;//increment ctr
+			if (arr[i] == item) //membuat kondisi jika data telah ditemukan
+			{
+				cout << "\n" << item << " ditemukan pada posisi ke " << (i + 1) << endl;
+				break;
+			}
+
 		}
 
 
