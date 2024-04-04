@@ -38,6 +38,12 @@ void linearSearch()  //membuat prosedur linearSearch
 	int ctr; //inisilisasi variabel ctr untuk melihat jumlah data dibandingkan
 	int item; //inisilisasi variabel item untuk menginput data yang akan dicari
 
+	//membuat looping untuk mencari element array menggunakan linear sort
+	do
+	{
+
+	} while (true);
+
 }
 
 int main()
