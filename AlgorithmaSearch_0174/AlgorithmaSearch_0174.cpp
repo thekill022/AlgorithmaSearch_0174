@@ -15,6 +15,10 @@ void input() //membuat prosedur input
 		{
 			break;
 		}
+		else //membuat kondisi jika n > 0 dan n <= 20 tidak terpenuhi
+		{
+			cout << "\nMinimun Jumlah elemnt adalah 1 dan Maksimum Jumlah Element adalah 20\n" << endl;
+		}
 
 	}
 }
