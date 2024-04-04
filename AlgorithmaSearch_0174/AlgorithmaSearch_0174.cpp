@@ -19,8 +19,18 @@ void input() //membuat prosedur input
 		{
 			cout << "\nMinimun Jumlah elemnt adalah 1 dan Maksimum Jumlah Element adalah 20\n" << endl;
 		}
-
 	}
+	//display untuk menginputkan isi masing - masing element array
+	cout << "\n======================\n";
+	cout << "Inputkan Element Array\n";
+	cout << "======================\n";
+
+	for (i = 0; i < n; i++)
+	{
+		cout << "<" << (i + 1) << "> ";
+		cin >> arr[i];
+	}
+
 }
 
 int main()
