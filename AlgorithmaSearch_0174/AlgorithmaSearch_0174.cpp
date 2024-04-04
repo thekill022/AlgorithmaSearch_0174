@@ -75,6 +75,13 @@ void linearSearch()  //membuat prosedur linearSearch
 
 void display() //membuat prosedur display 
 {
+	//perintah untuk mendisplay isi element array
+	cout << "\nElement array adalah :\n";
+	for (i = 0; i < n; i++)
+	{
+		cout << arr[i] << " ";
+		cout << endl;
+	}
 
 }
 
