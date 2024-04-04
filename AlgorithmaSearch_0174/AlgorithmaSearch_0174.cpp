@@ -49,7 +49,7 @@ void linearSearch()  //membuat prosedur linearSearch
 
 		while (i < n) //step 3
 		{
-			
+			ctr++;//increment ctr
 		}
 
 
