@@ -55,7 +55,7 @@ void linearSearch()  //membuat prosedur linearSearch
 				cout << "\n" << item << " ditemukan pada posisi ke " << (i + 1) << endl;
 				break;
 			}
-
+			i++; //step 4
 		}
 
 
