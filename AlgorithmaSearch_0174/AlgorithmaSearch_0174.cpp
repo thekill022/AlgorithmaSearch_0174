@@ -41,6 +41,8 @@ void linearSearch()  //membuat prosedur linearSearch
 	//membuat looping untuk mencari element array menggunakan linear sort
 	do
 	{
+		cout << "\nInputkan element yang ingin anda cari : "; //step 1
+		cin >> item;
 
 	} while (true);
 
