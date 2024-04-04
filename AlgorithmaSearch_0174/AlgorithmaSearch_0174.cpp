@@ -45,7 +45,7 @@ void linearSearch()  //membuat prosedur linearSearch
 		cin >> item;
 
 		ctr = 0; //mulai ctr dari 0 
-
+		i = 0; //step 2
 
 	} while (true);
 
