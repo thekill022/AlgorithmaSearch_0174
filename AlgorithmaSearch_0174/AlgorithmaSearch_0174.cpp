@@ -44,6 +44,9 @@ void linearSearch()  //membuat prosedur linearSearch
 		cout << "\nInputkan element yang ingin anda cari : "; //step 1
 		cin >> item;
 
+		ctr = 0; //mulai ctr dari 0 
+
+
 	} while (true);
 
 }
