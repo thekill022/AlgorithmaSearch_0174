@@ -69,7 +69,7 @@ void linearSearch()  //membuat prosedur linearSearch
 		cin >> ch;
 
 
-	} while (true);
+	} while (ch == 'y' || ch == 'Y'); //looping akan diulangi selama input ch y atau Y
 
 }
 
