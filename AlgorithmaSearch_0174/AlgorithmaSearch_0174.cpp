@@ -47,6 +47,12 @@ void linearSearch()  //membuat prosedur linearSearch
 		ctr = 0; //mulai ctr dari 0 
 		i = 0; //step 2
 
+		while (i < n) //step 3
+		{
+			
+		}
+
+
 	} while (true);
 
 }
