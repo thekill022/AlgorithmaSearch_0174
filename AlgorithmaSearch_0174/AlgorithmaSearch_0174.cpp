@@ -63,6 +63,8 @@ void linearSearch()  //membuat prosedur linearSearch
 			cout << "\n" << item << " tidak ditemukan di dalam array";
 		}
 
+		cout << "\nJumlah Nilai Dibandingkan = " << ctr << endl; //mandisplay berapa kali nilai dibandingkan
+
 
 	} while (true);
 
