@@ -73,6 +73,11 @@ void linearSearch()  //membuat prosedur linearSearch
 
 }
 
+void display() //membuat prosedur display 
+{
+
+}
+
 int main()
 {
 	
