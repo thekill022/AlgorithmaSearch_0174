@@ -36,6 +36,7 @@ void linearSearch()  //membuat prosedur linearSearch
 {
 	char ch; //inisialisasi variabel char ch untuk pilihan lanjut atau tidaknya looping
 	int ctr; //inisilisasi variabel ctr untuk melihat jumlah data dibandingkan
+	int item; //inisilisasi variabel item untuk menginput data yang akan dicari
 
 }
 
