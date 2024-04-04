@@ -65,6 +65,9 @@ void linearSearch()  //membuat prosedur linearSearch
 
 		cout << "\nJumlah Nilai Dibandingkan = " << ctr << endl; //mandisplay berapa kali nilai dibandingkan
 
+		cout << "\nLanjut Ke Pencarian Lain? (y/t): "; //mendisplay pertanyaan apakah lanjut ke pencarian lain atau tidak
+		cin >> ch;
+
 
 	} while (true);
 
