@@ -7,7 +7,11 @@ int i; //inisialisasi variabel i sebagai variabel global untuk menandai index da
 
 void input() //membuat prosedur input
 {
-
+	while (true) //membuat looping untuk menentukan panjang element array
+	{
+		cout << "Inputkan berapa banyak element array yan ingin anda berikan : ";
+		cin >> n;
+	}
 }
 
 int main()
