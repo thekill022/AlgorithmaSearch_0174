@@ -58,6 +58,11 @@ void linearSearch()  //membuat prosedur linearSearch
 			i++; //step 4
 		}
 
+		if (i == n) //step 5
+		{
+			cout << "\n" << item << " tidak ditemukan di dalam array";
+		}
+
 
 	} while (true);
 
