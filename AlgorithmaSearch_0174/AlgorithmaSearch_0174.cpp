@@ -35,6 +35,7 @@ void input() //membuat prosedur input
 void linearSearch()  //membuat prosedur linearSearch
 {
 	char ch; //inisialisasi variabel char ch untuk pilihan lanjut atau tidaknya looping
+	int ctr; //inisilisasi variabel ctr untuk melihat jumlah data dibandingkan
 
 }
 
