@@ -11,6 +11,11 @@ void input() //membuat prosedur input
 	{
 		cout << "Inputkan berapa banyak element array yan ingin anda berikan : ";
 		cin >> n;
+		if (n > 0 && n <= 20) //membuat kondisi jika n > 0 dan n <=20
+		{
+			break;
+		}
+
 	}
 }
 
