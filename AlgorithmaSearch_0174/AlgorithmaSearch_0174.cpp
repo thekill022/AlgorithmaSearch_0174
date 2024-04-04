@@ -87,5 +87,7 @@ void display() //membuat prosedur display
 
 int main()
 {
-	
+	input(); //memanggil prosedur input
+	linearSearch(); //memanggil prosedur linearSearch
+	display(); //memanggil prosedur display
 }
