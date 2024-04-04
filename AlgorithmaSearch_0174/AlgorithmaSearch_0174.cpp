@@ -30,6 +30,10 @@ void input() //membuat prosedur input
 		cout << "<" << (i + 1) << "> ";
 		cin >> arr[i];
 	}
+}
+
+void linearSearch()  //membuat prosedur linearSearch
+{
 
 }
 
